@@ -1,0 +1,1 @@
+move_dict = {'hit': [1, 5], 'thrash': [1, 7], 'chomp': [1, 12], 'tackle': [2, 5], 'fierce_bash': [1, 36], 'whirlwind': [4, 5], 'roll_attack': [1, 10], 'twin_slam': [2, 8], 'beam': [1, 10], 'rush': [1, 16], 'skull_bash': [1, 8], 'divider': [5, 1], 'sear': [1, 6], 'inferno': [6, 3]}
